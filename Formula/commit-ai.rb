@@ -1,8 +1,8 @@
 class CommitAi < Formula
   desc "AI-powered commit message generator"
   homepage "https://github.com/nseba/commit-ai"
-  url "https://github.com/nseba/commit-ai/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "your-archive-sha256-hash-here"
+  url "https://github.com/nseba/commit-ai/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "f70378c2ffd5504a583948c0f674951a197caf760e6d559cf9dd3e8e462cce13"
   license "MIT"
 
   depends_on "go" => :build  # if it's a Go project
